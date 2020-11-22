@@ -1,2 +1,2 @@
-# hackathon-website
-srm hackathon
+# stud_eeze
+the educational app
